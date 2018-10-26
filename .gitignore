@@ -1,0 +1,15 @@
+# .gitignore
+
+# OSX files
+*.DS-Store
+
+# PHPStorm
+/.idea/
+
+# 3rd Party Packages
+app/node_modules/
+app/vendor/
+
+# Other
+/logs/
+/reports/
