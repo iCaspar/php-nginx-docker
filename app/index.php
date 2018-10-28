@@ -2,7 +2,7 @@
 /**
  * Temporary index
  *
- * @package Arras
+ * @package PhpOnNginx
  * @author  Caspar Green <caspar@iCasparWebDevelopment.com>
  *
  * @since 1.0.0
