@@ -1,10 +1,12 @@
 {
-  "name": "icaspar/arras",
-  "description": "The Arras CMS",
-  "type": "CMS",
+  "name": "icaspar/phponnginx",
+  "description": "PHP on Nginx Docker Development Environment",
+  "type": "development",
   "keywords": [
-    "CMS",
-    "Arras"
+    "PHP",
+    "Nginx",
+    "Docker",
+    "development"
   ],
   "homepage": "https://caspar.green",
   "license": "MIT",
