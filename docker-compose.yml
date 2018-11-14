@@ -26,6 +26,7 @@ services:
       - webnet
     volumes:
       - ./app:/var/www/html
+      - ./root:/root
       - ./logs/php:/usr/local/etc/php-fpm.d/zz-log.conf
     environment:
       - "DB_PORT=3306"
