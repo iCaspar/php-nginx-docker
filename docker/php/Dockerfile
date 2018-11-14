@@ -14,7 +14,7 @@ RUN apt-get update \
 
 # Install php and extensions
 RUN apt-get update \
-    && apt-get install -y curl zip unzip git \
+    && apt-get install -y nano curl zip unzip git \
     && docker-php-ext-install pdo_mysql \
     && pecl install xdebug-2.6.1 \
     && docker-php-ext-enable xdebug \
