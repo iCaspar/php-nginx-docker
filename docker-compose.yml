@@ -22,6 +22,7 @@ services:
       context: ./docker/php
       dockerfile: Dockerfile
     image: icphp:latest
+    container_name: phpapp
     networks:
       - webnet
     volumes:
