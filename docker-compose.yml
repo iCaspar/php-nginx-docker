@@ -47,6 +47,7 @@ services:
       - "MYSQL_PASSWORD=secret"
     ports:
       - '33061:3306'
+      - '3306:3306'
 
   # Cache service -- Redis
   cache:
