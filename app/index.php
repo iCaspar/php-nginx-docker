@@ -1,9 +1,9 @@
 <?php
 /**
- * Temporary index
+ * Temporary index.
  *
- * @package PhpOnNginx
- * @author  Caspar Green <caspar@iCasparWebDevelopment.com>
+ * @package Project
+ * @author  Caspar Green <cg@caspar.green>
  *
  * @since 1.0.0
  */

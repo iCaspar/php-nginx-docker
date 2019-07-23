@@ -2,8 +2,8 @@
 /**
  * A file to run when testing that all is well with the world
  *
- * @package Arras
- * @author  Caspar Green <caspar@iCasparWebDevelopment.com>
+ * @package Project
+ * @author  Caspar Green <cg@caspar.green>
 
  * @since 1.0.0
  */

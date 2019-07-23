@@ -2,13 +2,13 @@
 /**
  * Test that PHP Unit is working
  *
- * @package Arras\Tests\Unit
- * @author  Caspar Green <caspar@iCasparWebDevelopment.com>
+ * @package Project\Tests\Unit
+ * @author  Caspar Green <cg@caspar.green>
 
  * @since 1.0.0
  */
 
-namespace Arras\Tests\Unit;
+namespace Project\Tests\Unit;
 
 use PHPUnit\Framework\TestCase;
 

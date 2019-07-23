@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<ruleset name="PhpTest">
-    <description>The code standard for PhpTest.</description>
+<ruleset name="Project">
+    <description>The code standard for Project.</description>
 
     <file>.</file>
 
