@@ -1,6 +1,10 @@
 # A Docker container for development on PHP/Nginx
 
-## Current Versions in the Package
+## Version
+
+0.2
+
+## Current Tools in this Package
 
 * Nginx - Latest Stable
 * PHP - 7.2.11

@@ -1,5 +1,12 @@
 #Change Log
 
+## Version 0.2
+
+* Add Basic Contents and Usage to readme.md
+* Fix `.gitignore` settings
+* Update `composer.json` and `composer.lock`
+* Remove references to Arras and PhpOnNginx from file headers and namespacing
+
 ## Version 0.1
 
 **Initial work.**
