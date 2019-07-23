@@ -10,6 +10,9 @@
 app/node_modules/
 app/vendor/
 
+# PHPUnit
+.phpunit.*
+
 # Other
 /logs/
 /reports/
