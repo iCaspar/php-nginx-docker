@@ -1,5 +1,10 @@
 #Change Log
 
+## Version 0.3
+
+* Update PHP to v.7.3.7
+* Update XDebug to v.2.7.2
+
 ## Version 0.2
 
 * Add Basic Contents and Usage to readme.md
