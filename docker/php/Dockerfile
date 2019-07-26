@@ -1,4 +1,4 @@
-FROM php:7.2.11-fpm
+FROM php:7.3.7-fpm
 
 LABEL maintainer="Caspar Green"
 
@@ -16,7 +16,7 @@ RUN apt-get update \
 RUN apt-get update \
     && apt-get install -y nano curl zip unzip git \
     && docker-php-ext-install pdo_mysql \
-    && pecl install xdebug-2.6.1 \
+    && pecl install xdebug-2.7.2 \
     && docker-php-ext-enable xdebug \
     && echo "xdebug.remote_port=9000" >> /usr/local/etc/php/conf.d/docker-php-ext-xdebug.ini \
     && echo "xdebug.remote_enable=1" >> /usr/local/etc/php/conf.d/docker-php-ext-xdebug.ini \
