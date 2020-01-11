@@ -1,5 +1,9 @@
 #Change Log
 
+## Version 0.4
+* Update PHP to v.7.4.1
+* Update XDebug to v.2.9.0
+
 ## Version 0.3
 
 * Update PHP to v.7.3.7

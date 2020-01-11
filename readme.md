@@ -2,14 +2,14 @@
 
 ## Version
 
-0.3
+0.4
 
 ## Current Tools in this Package
 
 * Nginx - Latest Stable
-* PHP - 7.3.7
+* PHP - 7.4.1
 * Redis - 4.1.1
-* XDebug - 2.7.2
+* XDebug - 2.9.0
 * MySQL - 5.7.23
 * PHP Unit - 8.2.x
 * PHP Codesniffer - 3.x
