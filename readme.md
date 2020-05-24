@@ -2,7 +2,7 @@
 
 ## Version
 
-0.4
+0.5
 
 ## Current Tools in this Package
 
@@ -12,6 +12,7 @@
 * XDebug - 2.9.0
 * MySQL - 5.7.23
 * PHP Unit - 8.2.x
+* Mockery - 1.4.x
 * PHP Codesniffer - 3.x
 
 ## Prerequisites
@@ -33,6 +34,6 @@
 
 **NOTE:** Composer must always be run from within the container.
 
-* `composer unit` to run unit tests in `/app/tests` directory
+* `composer unit` to run unit tests in `/app/tests/Unit` directory
 * `composer sniff` to run PHP Codesniffer in `/app` directory
 * Codesniffer uses PSR-2 rules out of the box.

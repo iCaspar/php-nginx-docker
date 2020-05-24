@@ -1,5 +1,10 @@
 #Change Log
 
+## Version 0.5
+* Increase composer php requirement to 7.4
+* Add Mockery to composer require-dev
+* Remove phpdocumentor from composer require-dev
+
 ## Version 0.4
 * Update PHP to v.7.4.1
 * Update XDebug to v.2.9.0
