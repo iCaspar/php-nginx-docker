@@ -10,7 +10,7 @@
     <exclude-pattern>*/vendor/*</exclude-pattern>
     <exclude-pattern>*/vendors/*</exclude-pattern>
 
-    <!-- PHP only. We'll use other validators for JS, CSS, etc. -->
+    <!-- PHP only -->
     <arg name="extensions" value="php"/>
 
     <!-- Reporting Configuration -->
